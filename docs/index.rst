@@ -4,10 +4,10 @@
    contain the root `toctree` directive.
    
    
-.. image:: ../../images/juliafractal.png
+.. image:: ./images/juliafractal.png
    :align: right
 
-Welcome to fractals gcodes's documentation!
+
 ===========================================
 
 Contents:
@@ -15,7 +15,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   Introducción
+   Introduccion
    
 
 
