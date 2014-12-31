@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
    
    
-.. image:: ../../images/juliafractal.png
+.. image:: ./images/juliafractal.png
    :align: right
    
    
