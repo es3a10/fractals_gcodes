@@ -6,13 +6,10 @@
    
 .. image:: ./images/juliafractal.png
    :align: right
-   
-   
-   
-   
 
 
-===========================================
+Matemáticas con impresora 3D
+============================
 
 Contents:
 
