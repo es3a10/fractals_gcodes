@@ -6,6 +6,10 @@
    
 .. image:: ./images/juliafractal.png
    :align: right
+   
+   
+   
+   
 
 
 ===========================================
